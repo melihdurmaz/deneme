@@ -13,5 +13,7 @@ public class Main {
         System.out.println("altıncı deneme");
 
         System.out.println("yedinci deneme");
+
+        System.out.println("fatihin yazdıgı kod");
     }
 }
