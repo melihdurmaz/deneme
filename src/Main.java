@@ -14,6 +14,6 @@ public class Main {
 
         System.out.println("yedinci deneme");
 
-        System.out.println("melihin yazdığı kod");
+        System.out.println("melihin yazdığı kod1");
     }
 }
