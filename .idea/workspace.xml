@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f8870c2-f443-4bf9-942d-1aae3d0060b7" name="Changes" comment="ikinci degisiklik" />
+    <list default="true" id="4f8870c2-f443-4bf9-942d-1aae3d0060b7" name="Changes" comment="beşinci degisiklik" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,7 +58,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671139028461</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="beşinci degisiklik">
+      <created>1671142162359</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1671142162359</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -86,6 +93,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ilk degisiklik" />
     <MESSAGE value="ikinci degisiklik" />
-    <option name="LAST_COMMIT_MESSAGE" value="ikinci degisiklik" />
+    <MESSAGE value="beşinci degisiklik" />
+    <option name="LAST_COMMIT_MESSAGE" value="beşinci degisiklik" />
   </component>
 </project>
