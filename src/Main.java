@@ -9,5 +9,7 @@ public class Main {
         System.out.println("dorduncu deneme");
 
         System.out.println("beşinci deneme");
+
+        System.out.println("altıncı deneme");
     }
 }
